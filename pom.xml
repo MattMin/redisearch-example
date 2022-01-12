@@ -9,7 +9,6 @@
   <version>1.0</version>
     <modules>
         <module>jredisearch</module>
-        <module>spring-redisearch</module>
     </modules>
     <packaging>pom</packaging>
 
